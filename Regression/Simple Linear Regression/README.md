@@ -1,5 +1,5 @@
 ## Simple Linear Regression
-Hi welcome to the first part of the regression in this program we will learn that how we can train or model and predict the ouutcomes with the Simple Linear Regression.
+Hi welcome to the first part of the regression in this program we will learn that how we can predict the salary of an employee of an organisation on the basis of the year of experience he/she has on the basis of data of the employee salary of that organisation.
 
 ## How to Run This Code
 1. Open the Jupyter Notebook on your system.
@@ -25,3 +25,10 @@ Hi welcome to the first part of the regression in this program we will learn tha
 Simple linear regression is used to model the relationship between two continuous variables. Often, the objective is to predict the value of an output variable (or response) based on the value of an input (or predictor) variable.
 
 Formula for the Simple Linear Regression is y = a + xb
+
+# Explaination of code
+1. Import the essential Libraries in the first cell.
+2. Import the Data set with the help of pandas library.
+3. Splitting the Data set into Training Set and Test Set.
+4. Predicting the test set result.
+5. Visualising the test set and training set.
